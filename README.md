@@ -1,181 +1,61 @@
+# APT GOD README Header
+
 ```markdown
 <p align="center">
-  <img src="aptgod-logo.png" alt="APT GOD Logo" width="250">
+  <img src="./aptgod-logo.png" width="220" alt="APT GOD Logo">
 </p>
 
-<h1 align="center">Hi 👋, I'm Wordi Gabriel</h1>
+<h1 align="center">WORDI GABRIEL</h1>
 
 <h3 align="center">
-🚀 Founder & CEO, APT GOD BUSINESSES | Crypto Consultant | Entrepreneur | Blockchain Innovator | Agricultural Technology Advocate
+Founder & CEO • APT GOD BUSINESSES
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+APT+GOD+BUSINESSES;Creator+of+Greebit+Cryptocurrency;Building+Technology+for+Africa;Blockchain+%7C+Agriculture+%7C+Innovation;Empowering+the+Unbanked+Through+Crypto&center=true&width=700&height=45">
-</p>
-
----
-
-# 🧠 About Me
-
-I am **Wordi Gabriel**, Founder & CEO of **APT GOD BUSINESSES**, a diversified enterprise operating across:
-
-🌱 Agriculture  
-💰 Cryptocurrency & Blockchain  
-🚚 Transportation & Logistics  
-🏢 Real Estate  
-📱 Mobile Financial Services  
-💻 Technology Solutions
-
-My mission is to leverage technology and innovation to create sustainable economic opportunities and drive Africa's digital transformation.
-
----
-
-# 🚀 Current Projects
-
-### 🌿 Greebit (GRBT)
-A blockchain-powered cryptocurrency focused on agriculture and financial inclusion.
-
-### 🏢 APT GOD Enterprise
-A business ecosystem integrating agriculture, transport, fintech, and e-commerce.
-
-### ♻️ Coconexus
-A sustainable manufacturing initiative producing:
-
-- Coconut charcoal briquettes
-- Eco-friendly packaging
-- Disposable bowls
-- Agricultural by-products
-
-### 📚 Blockchain Education
-Providing training and consulting on:
-
-- Cryptocurrency
-- Blockchain Technology
-- Digital Assets
-- Web3 Innovation
-
----
-
-# 🛠 Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,nodejs,react,git,github,vscode" />
-</p>
-
----
-
-# 📈 Business Expertise
-
-- Cryptocurrency Consulting
-- Blockchain Solutions
-- Agricultural Business Development
-- Financial Inclusion Systems
-- Mobile Money Operations
-- Real Estate Investment
-- Transportation Management
-- Business Strategy
-
----
-
-# 🌍 Vision
-
-> Building sustainable businesses powered by technology, agriculture, and blockchain innovation to transform lives across Africa.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wordigabriel&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+Agriculture • Cryptocurrency • Blockchain • Transport • Real Estate • Financial Services
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wordigabriel&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00AA44&center=true&vCenter=true&width=700&lines=Founder+of+APT+GOD+BUSINESSES;Creator+of+Greebit+Cryptocurrency;Building+Africa's+Future+with+Technology;Blockchain+%7C+Agriculture+%7C+Innovation">
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🚀 About Me
 
-✅ Founder & CEO of APT GOD BUSINESSES
-
-✅ Creator of Greebit Cryptocurrency
-
-✅ Crypto Consultant
-
-✅ Entrepreneur
-
-✅ Agricultural Innovator
-
-✅ Technology Advocate
+- 👨‍💼 Founder & CEO of APT GOD BUSINESSES
+- 🌱 Creator of Greebit Cryptocurrency
+- 💰 Crypto Consultant
+- 🚚 Entrepreneur
+- 🏡 Real Estate Investor
+- 🌍 Building solutions for Africa
 
 ---
 
-# 🌟 Featured Projects
+## 🛠 Tech Stack
 
-### 🚀 Greebit Cryptocurrency
-Blockchain solution supporting agriculture and financial inclusion.
-
-### 🌱 Coconexus
-Sustainable agricultural processing and manufacturing.
-
-### 🏢 APT GOD Enterprise Platform
-Integrated business management ecosystem.
-
-### 📊 AI Trading Systems
-Research and development of intelligent market analysis tools.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-# 📚 Currently Learning
+## 📈 GitHub Stats
 
-- Artificial Intelligence
-- Blockchain Security
-- Smart Contract Development
-- Agricultural Technology
-- Business Automation
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect
 
-<p align="center">
-
-<a href="https://github.com/wordigabriel">
-GitHub
-</a>
-
-|
-
-<a href="https://linkedin.com">
-LinkedIn
-</a>
-
-|
-
-<a href="mailto:your-email@example.com">
-Email
-</a>
-
-</p>
+- LinkedIn: Your LinkedIn URL
+- Email: Your Email
+- Website: Your Website
 
 ---
 
-# 💡 Favorite Quote
-
-> "Innovation creates opportunities. Execution creates impact."
-
----
-
-# 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wordigabriel&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# ⚡ Fun Fact
-
-I believe Africa's future will be powered by a combination of Agriculture 🌱, Blockchain ⛓️, Artificial Intelligence 🤖, and Entrepreneurship 🚀.
+> Innovation creates opportunities. Execution creates impact.
 ```
