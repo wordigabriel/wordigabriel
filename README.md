@@ -1,61 +1,86 @@
-# APT GOD README Header
-
-```markdown
-<p align="center">
-  <img src="./aptgod-logo.png" width="220" alt="APT GOD Logo">
-</p>
-
-<h1 align="center">WORDI GABRIEL</h1>
-
-<h3 align="center">
-Founder & CEO • APT GOD BUSINESSES
-</h3>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Wordi Gabriel</h1>
+<h3 align="center">🚀 Founder & CEO, APT GOD Enterprises | Crypto Consultant | Web Developer | System Architect | AI & Blockchain Innovator | Digital Entrepreneur</h3>
 
 <p align="center">
-Agriculture • Cryptocurrency • Blockchain • Transport • Real Estate • Financial Services
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00AA44&center=true&vCenter=true&width=700&lines=Founder+of+APT+GOD+BUSINESSES;Creator+of+Greebit+Cryptocurrency;Building+Africa's+Future+with+Technology;Blockchain+%7C+Agriculture+%7C+Innovation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Impactful+Tech+in+Africa;Crypto+%7C+Web3+%7C+AI+%7C+Business;Founder+of+APT+GOD+Enterprises;Innovation+that+scales+and+empowers&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 👨‍💼 Founder & CEO of APT GOD BUSINESSES
-- 🌱 Creator of Greebit Cryptocurrency
-- 💰 Crypto Consultant
-- 🚚 Entrepreneur
-- 🏡 Real Estate Investor
-- 🌍 Building solutions for Africa
+I am **Wordi Gabriel** — a Ghanaian entrepreneur, developer, and blockchain enthusiast building scalable digital systems across **crypto, business, AI, and web infrastructure**.
+
+I build systems that:
+- empower financial inclusion 💰  
+- digitize African entrepreneurship 🌍  
+- solve real-world problems using technology ⚙️  
+
+My mission is simple:  
+> **Build technology that creates wealth, opportunity, and global impact from Africa.**
+
+---
+
+## 🚀 What I’m Building
+
+🔹 **APT GOD Ecosystem** — multi-industry digital enterprise (crypto, transport, agriculture, real estate)  
+🔹 **Greebit Token** — agricultural-backed cryptocurrency for financial inclusion  
+🔹 **Coconexus Project** — eco-friendly packaging from coconut waste  
+🔹 **E-commerce Systems** — modern online business platforms for African SMEs  
 
 ---
 
 ## 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,nodejs,python,git,github,linux" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
-## 🌐 Connect
-
-- LinkedIn: Your LinkedIn URL
-- Email: Your Email
-- Website: Your Website
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wordigabriel&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wordigabriel&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-> Innovation creates opportunities. Execution creates impact.
-```
+## 🧩 Featured Projects
+
+- 🔗 https://github.com/wordigabriel/APT-GOD-Enterprise  
+- 🔗 https://github.com/wordigabriel/Greebit-Token  
+- 🔗 https://github.com/wordigabriel/Coconexus  
+- 🔗 https://github.com/wordigabriel/apt-god-website  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://wordigabriel.github.io">🌍 Website</a> •
+  <a href="https://www.linkedin.com">LinkedIn</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wordigabriel&theme=tokyonight)
+
+---
+
+## ⚡ Philosophy
+
+> I build scalable digital systems that empower African businesses, unlock financial freedom, and create global opportunities through technology.
+
+---
+
+## 👁 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wordigabriel&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
